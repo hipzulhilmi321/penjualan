@@ -1,0 +1,2 @@
+# penjualan
+Tugas UAS
